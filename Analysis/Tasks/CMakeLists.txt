@@ -16,6 +16,7 @@ add_subdirectory(PWGLF)
 add_subdirectory(PWGUD)
 add_subdirectory(ALICE3)
 add_subdirectory(SkimmingTutorials)
+add_subdirectory(Trigger)
 
 
 o2_add_dpl_workflow(trackextension
